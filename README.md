@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 ~~~~
 
 ~~~~
-> #_> ssh-keygen -f key/ssh.key
+#_> ssh-keygen -f key/ssh.key
 Generating public/private rsa key pair.
 Enter passphrase (empty for no passphrase): 
 Enter same passphrase again: 
